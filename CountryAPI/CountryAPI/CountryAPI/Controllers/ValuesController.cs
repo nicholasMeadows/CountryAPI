@@ -61,7 +61,7 @@ namespace CountryAPI.Controllers
                 HttpContext.Response.StatusCode = 401;
                 errorModel err = new errorModel();
                 err.error = new error();
-                err.error.message = "Expired acces token";
+                err.error.message = "Expired access_token";
                 err.error.status = 401;
                 return err;
             }
