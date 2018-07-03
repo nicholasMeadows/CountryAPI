@@ -1,0 +1,11 @@
+C:\GitHub\CountryAPI\CountryAPI\CountryAPI\CountryAPI\bin\Release\netcoreapp2.0\CountryAPI.deps.json
+C:\GitHub\CountryAPI\CountryAPI\CountryAPI\CountryAPI\bin\Release\netcoreapp2.0\CountryAPI.runtimeconfig.json
+C:\GitHub\CountryAPI\CountryAPI\CountryAPI\CountryAPI\bin\Release\netcoreapp2.0\CountryAPI.runtimeconfig.dev.json
+C:\GitHub\CountryAPI\CountryAPI\CountryAPI\CountryAPI\bin\Release\netcoreapp2.0\CountryAPI.dll
+C:\GitHub\CountryAPI\CountryAPI\CountryAPI\CountryAPI\bin\Release\netcoreapp2.0\CountryAPI.pdb
+C:\GitHub\CountryAPI\CountryAPI\CountryAPI\CountryAPI\obj\Release\netcoreapp2.0\CountryAPI.csproj.CoreCompileInputs.cache
+C:\GitHub\CountryAPI\CountryAPI\CountryAPI\CountryAPI\obj\Release\netcoreapp2.0\CountryAPI.AssemblyInfoInputs.cache
+C:\GitHub\CountryAPI\CountryAPI\CountryAPI\CountryAPI\obj\Release\netcoreapp2.0\CountryAPI.AssemblyInfo.cs
+C:\GitHub\CountryAPI\CountryAPI\CountryAPI\CountryAPI\obj\Release\netcoreapp2.0\CountryAPI.dll
+C:\GitHub\CountryAPI\CountryAPI\CountryAPI\CountryAPI\obj\Release\netcoreapp2.0\CountryAPI.pdb
+C:\GitHub\CountryAPI\CountryAPI\CountryAPI\CountryAPI\obj\Release\netcoreapp2.0\CountryAPI.csprojAssemblyReference.cache
